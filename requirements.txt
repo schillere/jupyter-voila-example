@@ -67,8 +67,8 @@ python-dateutil==2.8.1
 pythreejs==2.2.0
 pytz==2020.1
 PyWavelets==1.1.1
-pywin32==227
-pywinpty==0.5.7
+#pywin32==227
+#pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
 requests==2.24.0
@@ -90,6 +90,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 wheel==0.34.2
 widgetsnbextension==3.5.1
-win-inet-pton==1.1.0
-wincertstore==0.2
+#win-inet-pton==1.1.0
+#wincertstore==0.2
 zipp==3.1.0
