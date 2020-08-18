@@ -75,7 +75,7 @@ requests==2.24.0
 scikit-image==0.17.2
 scipy==1.5.0
 Send2Trash==1.5.0
-setuptools==49.6.0.post20200814
+#setuptools==49.6.0.post20200814
 six==1.15.0
 terminado==0.8.3
 testpath==0.4.4
