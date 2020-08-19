@@ -9,5 +9,3 @@ dependencies:
   - scipy
   - ipywidgets
   - ipympl
-prefix: C:\ProgramData\Anaconda3\envs\Voila
-
