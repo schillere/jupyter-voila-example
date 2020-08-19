@@ -1,4 +1,4 @@
-# voila1
+# jupyter_voila_example
  Test deployment of Jupyter Voila
 
 
