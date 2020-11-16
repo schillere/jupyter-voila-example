@@ -10,3 +10,4 @@ dependencies:
   - ipywidgets
   - ipympl
   - matplotlib.pyplot
+  - numpy
