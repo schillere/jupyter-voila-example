@@ -9,5 +9,5 @@ dependencies:
   - scipy
   - ipywidgets
   - ipympl
-  - matplotlib.pyplot
   - numpy
+  - matplotlib
